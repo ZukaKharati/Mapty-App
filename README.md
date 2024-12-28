@@ -40,5 +40,41 @@ This is an interactive Fitness Tracker App that enables users to log, manage, an
 
 ### The link created by the github, to test the project live version.
 
+https://zukakharati.github.io/Mapty-App/
+
+#### ❗ Important - You must allow browser to use your location.
+
+### 📷 Screenshots
+
+Main Page
+
+![image](https://github.com/user-attachments/assets/e357cda9-6b87-4e69-b17c-83e2521127bd)
+
+Clicked on the map and then the form is shown
+
+![image](https://github.com/user-attachments/assets/04c33056-c5a9-4ddc-81e8-5be068ee5ecc)
+
+After submitting the form for running
+
+![image](https://github.com/user-attachments/assets/592a051c-f8ba-427b-bcca-f15e618fead2)
+
+After Submitting the for for cycling
+
+![image](https://github.com/user-attachments/assets/17e10f23-477e-45ee-a4e5-53a59221f755)
+
+### 📝 Author
+• Name - Zaur Kharati
+
+• Github - https://github.com/ZukaKharati/Project-1-Guess-My-Number
+
+• LinkedIn - https://www.linkedin.com/in/zaur-kharati-940287211/
+
+
+### 🎉 Thanks for viewing the project and good luck!
+
+
+
+
+
 
 
