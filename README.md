@@ -62,7 +62,7 @@ After Submitting the for for cycling
 
 ![image](https://github.com/user-attachments/assets/17e10f23-477e-45ee-a4e5-53a59221f755)
 
-### 📝 Author
+### 📝 Profile
 • Name - Zaur Kharati
 
 • Github - https://github.com/ZukaKharati/Project-1-Guess-My-Number
