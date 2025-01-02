@@ -1,6 +1,6 @@
 # Map your workouts
 
-This is an interactive Fitness Tracker App that enables users to log, manage, and visualize their running and cycling activities on a map. The app uses modern JavaScript features, geolocation, and the Leaflet library for a dynamic and responsive user experience.
+This is an interactive Fitness Tracker App that enables users to manage and visualize their running and cycling activities on a map. The app uses modern JavaScript features, geolocation, and the Leaflet library for a dynamic and responsive user experience.
 
 ## Features
 
