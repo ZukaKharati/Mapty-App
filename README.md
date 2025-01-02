@@ -40,7 +40,7 @@ This is an interactive Fitness Tracker App that enables users to manage and visu
 
 ### The link created by the github, to test the project live version.
 
-https://zukakharati.github.io/Mapty-App/
+https://zukakharati.github.io/Project-6-Mapty-App/
 
 #### ❗ Important - You must allow browser to use your location.
 
